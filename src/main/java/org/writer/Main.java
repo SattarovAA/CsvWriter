@@ -1,7 +1,9 @@
 package org.writer;
 
+import org.writer.demo.Demo;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        new Demo().run();
     }
 }

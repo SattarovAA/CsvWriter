@@ -1,4 +1,4 @@
-package org.writer;
+package org.writer.service;
 
 import java.util.List;
 
